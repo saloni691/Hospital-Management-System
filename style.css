@@ -1,0 +1,164 @@
+.contact-section;
+	padding:40px;
+	background-size:cover;
+}
+.contact-section h2{
+	text-align:center;
+	color:#ddd;
+}
+.border{
+	width:100px;
+	height:10px;
+	margin:40px auto;
+	
+}
+.contact-form{
+	max-width:600px;
+	margin:auto;
+	padding:10px;
+}
+.contact-form-text{
+	width:100%;
+	box-sizing:border-box;
+	margin:10px 0;
+	border:0;
+	background:silver;
+	padding:20px 30px;
+	outline:none;
+	color:#silver;
+	transition:0.5s;
+}
+.contact-form-text:hover{
+
+}
+textarea.contact-form-text{
+	resize:none;
+	height:80px;
+}
+.contact-form-btn{
+	float:right;
+	border:0;
+	background:#34495e;
+	color:#fff;
+	padding:12px 50px;
+	border-radius:20px;
+	cursor:pointer;
+	transition:0.5s;
+}
+.contact-form-btn:hover{
+	background:red;
+}
+	#user_table input[type="text"],#user_table input[type="password"] {
+	width:450px;
+	height:50px:
+	border-radius:5px;
+	font-size:25px;
+	color:blue;
+		box-shadow:0 0 10px 4px white;
+
+}
+#user_login{
+	height:30px:
+	
+	font-size:25px;
+	color:blue;
+	width:500px;
+}
+	
+	
+#user_table input[type="submit"],#user_table input[type="reset"] {
+	width:100px;
+	height:30px:
+	
+	font-size:18px;
+color:blue;
+}
+#user_table input[type="text"],#user_table input[type="password"],select ,#user_table input[type="email"] {
+	width:250px;
+	height:30px:
+	border-radius:5px;
+	font-size:18px;
+	color:red;
+		box-shadow:0 0 10px 4px white;
+
+}
+#user_login tr td#comm{
+	height:30px:
+	border-radius:5px;
+	font-size:18px;
+	color:blue;
+	width:300px;
+}
+	
+	
+#user_table input[type="submit"],#user_table input[type="reset"] {
+	width:100px;
+	height:30px:
+	border-radius:5px;
+	font-size:18px;
+	color:blue;
+	box-shadow:0 0 10px 4px white;
+}
+#user_table textarea{
+	width:250px;
+	height:100px:
+	border-radius:5px;
+	font-size:18px;
+	box-shadow:0 0 10px 4px white;
+	
+}
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+.card{
+ background-color: #f4f3f3;
+ width: 250px;
+ height: 100px;
+ text-align: center;
+ margin: 5%;
+ border-radius: 10px;
+ 
+}
+
+.card-background{
+ background: linear-gradient(to right, #009688, #4CAF50);
+ height: 160px;
+ width: 100%;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+}
+
+.card-image{
+ border-radius: 50%;
+ width: 120px;
+ height: auto;
+ position: relative;
+ top: 100px;
+ border: 6px solid #f4f3f3;
+}
+
+.card-info{
+ margin-top: 80px;
+ padding: 10px;
+}
+
+.fab{
+ color: grey;
+ font-size: 24px;
+ margin: 15px;
+ cursor: pointer;
+}
+
+.fab:hover{
+ color: #524b4b;
+}
+
+h1{
+ color: #009688; 
+}
+
+p{
+ color: grey;
+}
